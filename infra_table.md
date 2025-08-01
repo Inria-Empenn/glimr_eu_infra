@@ -3,5 +3,9 @@
 | 1   | B2SHARE |[b2share.eudat.eu](https://b2share.eudat.eu)|All scientists (free)| Yes| Cross-disciplinary research data| [10.23728/B2SHARE.47AEEB85B5FF4C3CAB79A5C5B7DB49FA](https://doi.org/10.23728/B2SHARE.47AEEB85B5FF4C3CAB79A5C5B7DB49FA) |
 | 2   | DataverseNL | [dataverse.nl](https://dataverse.nl) | Members of DataversNL institutions (free or with fee depending on host institute) | Yes | Cross-disciplinary research data| [10.34894/INHTP8](https://doi.org/10.34894/INHTP8)  |
 | 3   | EBRAINS Health Data Cloud (VRE node) | [vre.charite.de/vre/](https://vre.charite.de/vre/) | Employees of the Charité and collaborators, possibility to submit a request for externals (free) | Yes | Human brain data| [10.25493/3VPN-ZY7](https://doi.org/10.25493/3VPN-ZY7)  |
-
-
+| 4   | GIN (G-Node Data Infrastructure) | [gin.g-node.org](gin.g-node.org) | All scientists (free) | Yes | Neuroscience data | [10.12751/g-node.1lfvzi](https://doi.org/10.12751/g-node.1lfvzi)
+| 5   | Health-RI XNAT | [xnat.bmia.nl](https://xnat.bmia.nl) | Research projects that were initiated in the Netherlands (fees apply, see [pricing](https://www.healthdata.nl/en/pricing-model-health-ri-services)) | No | Medical Imaging data | [xnat.health-ri.nl/data/projects/stwstrategyhn1](https://xnat.health-ri.nl/data/projects/stwstrategyhn1)
+| 6   | Public nEURo  | [publicneuro.eu](https://publicneuro.eu) | All scientists (fees apply, see [pricing](https://publicneuro.eu/upload.html))) | Yes | Brain Imaging Data | [10.70883/QXBH2876](https://doi.org/10.70883/QXBH2876) |
+| 7   | Radboud Data repository  | [data.ru.nl](https://data.ru.nl) | Scientists at Radboud University (free) | Yes | Cross-disciplinary research data | [10.34973/t6m1-x414](https://doi.org/10.34973/t6m1-x414) |
+| 8   | Shanoir Neurinfo  | [shanoir.irisa.fr](https://shanoir.irisa.fr) | Collaborators of the Neurinfo platform (free) | No | Medical Imaging data | [shanoir.irisa.fr](https://shanoir.irisa.fr) “MSSEG-2” |
+| 9   | Sikt | [sikt.no/en/archiving-research-data](https://sikt.no/en/archiving-research-data) | Scientists in Norway (free) | No | Data in medical and health research, social sciences, and humanities | No brain imaging dataset currently (see [sikt.no/en/find-data](https://sikt.no/en/find-data)) |
