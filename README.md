@@ -13,8 +13,8 @@ and the Zenodo record: <add_record_id_here>.
 # Contents overview
 
 This repository contains two main files:
- - `infra_table.csv`: List of infrastructures including: name, URL, Who can upload, Cost for scientists, DOI (yes/no), Type of data hosted, Example of shared brain dataset.
- - `sources.csv`: Links to the sources used to fill information in `infra_table.csv`
+ - [`infra_table.md`](https://github.com/Inria-Empenn/glimr_eu_infra/blob/main/infra_table.md): List of infrastructures including: name, URL, Who can upload, Cost for scientists, DOI (yes/no), Type of data hosted, Example of shared brain dataset.
+ - [`sources.md`](https://github.com/Inria-Empenn/glimr_eu_infra/blob/main/sources.md): Links to the sources used to fill information in `infra_table.md`
 
 ## Contributing
 
