@@ -1,4 +1,4 @@
-# Which infrastructure can I use to share human neuroimaging data from the EU? Results from a survey and literature review
+# Which infrastructure can I use to share human neuroimaging data? Recommendations for EU researchers based on a survey and literature review
 
 A curated list of infrastructures initially created for the manuscript with the same title available as [hal-05071218](https://inria.hal.science/hal-05071218/document).
 
@@ -6,7 +6,7 @@ A curated list of infrastructures initially created for the manuscript with the 
 
 To cite this repository, please cite both the corresponding manuscript:
 
-Jérémy Lefort-Besnard*, Alexandre Pron*, Patricia Clement, Gareth J. Barker, Yaara Erez, Maria A. Fernández-Seara, Saide Begüm Feyzioglu, Shir Hartman, Ramón Iglesias-Rey, Vera Keil, Tatjana Mitrović, Emanuel Nechifor Ruben, Esin Ozturk-Isik, Catarina Passarinho, Igor Petrušić, Amira Šerifović Trbalić, Nico Sollmann, Stefanie C. Thust, Gülce Turhan, Esther A.H. Warnert, Stephan Heunis, Camille Maumet. "Which infrastructure can I use to share human neuroimaging data? A Guide for researchers based in the EU". 2025. ⟨[hal-05071218v3](https://inria.hal.science/hal-05071218/document)⟩
+Jérémy Lefort-Besnard*, Alexandre Pron*, Patricia Clement, Gareth J. Barker, Yaara Erez, Maria A. Fernández-Seara, Saide Begüm Feyzioglu, Shir Hartman, Ramón Iglesias-Rey, Vera Keil, Tatjana Mitrović, Emanuel Nechifor Ruben, Esin Ozturk-Isik, Catarina Passarinho, Igor Petrušić, Amira Šerifović Trbalić, Nico Sollmann, Stefanie C. Thust, Gülce Turhan, Esther A.H. Warnert, Stephan Heunis, Camille Maumet. "Which infrastructure can I use to share human neuroimaging data? Recommendations for EU researchers based on a survey and literature review". 2025. ⟨[hal-05071218](https://inria.hal.science/hal-05071218/document)⟩
 
 and the Zenodo record: [zenodo.16735588](https://doi.org/10.5281/zenodo.16735588).
 
